@@ -4,7 +4,6 @@ A simple and interactive React application for creating, managing, and organizin
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
